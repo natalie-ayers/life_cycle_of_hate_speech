@@ -3,3 +3,7 @@ data/Twitter/jigsaw-unintended-bias-in-toxicity-classification/identity_individu
 data/Twitter/jigsaw-unintended-bias-in-toxicity-classification/all_data.csv
 data/Twitter/jigsaw-unintended-bias-in-toxicity-classification/toxicity_individual_annotations.csv
 data/Twitter/jigsaw-unintended-bias-in-toxicity-classification/train.csv
+.DS_Store
+.DS_Store
+data/.DS_Store
+data/Twitter/.DS_Store
