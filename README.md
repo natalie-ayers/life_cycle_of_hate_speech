@@ -15,7 +15,7 @@ We hope to examine the progression and varying expression of hate speech through
 ### Data Collection and Preprocessing
 - `data/`: orignal tweet datasets as well as cleaned datasets and upsampled ones
 - `collect_twitter_data.ipynb`: scrape tweet info with snscrape package; 140 lines
-- `clean_data.ipynb`: data preprocessing (including text normalization, tokenization, etc.); 165 lines
+- `clean_data.ipynb`: data preprocessing (including text normalization, tokenization, etc.); 171 lines
 - `exploratory_data_analysis.ipynb `: training data content evaluation: 
 
 ### Google Trends
