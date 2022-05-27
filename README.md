@@ -18,6 +18,9 @@ We hope to examine the progression and varying expression of hate speech through
 - `clean_data.ipynb`: data preprocessing (including text normalization, tokenization, etc.); 165 lines
 - `exploratory_data_analysis.ipynb `: 
 
+### Google Trends
+- `Hate Speech.ipynb`: get good trends data for different types of hate speech: 65 lines
+
 ### Model Training
 - `cleaning_scratchwork.ipynb`:
 - `BoW_XGBoost_NB_SVC_LR_GB_RF_KNN.ipynb`: Bag-of-Words-based models training and evaluation pipeline: 171 lines
