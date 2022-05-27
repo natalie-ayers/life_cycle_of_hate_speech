@@ -25,7 +25,7 @@ We hope to examine the progression and varying expression of hate speech through
 - `cleaning_scratchwork.ipynb`:
 - `BoW_XGBoost_NB_SVC_LR_GB_RF_KNN.ipynb`: Bag-of-Words-based models training and evaluation pipeline: 171 lines
 - `TFIDF_XGBoost_NB_SVC_LR_GB_RF_KNN.ipynb`: TF-IDF-based models training and evaluation pipeline: 532 lines
-- `LSTM.ipynb`
+- `LSTM.ipynb`: 714 lines
 - `sklearn_log.py`:
 - `transformers_bert.ipynb`: 
 - `CNN.ipynb`: CNN model training and exploration: 739 lines
