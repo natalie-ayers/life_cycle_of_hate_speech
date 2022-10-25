@@ -1,4 +1,6 @@
-# life_cycle_of_hate_speech
+# Life Cycle of Hate Speech
+
+[Project Report](https://github.com/natalie-ayers/life_cycle_of_hate_speech/blob/main/Adv%20ML%20Final%20Paper.pdf)
 
 ## Project Description
 
